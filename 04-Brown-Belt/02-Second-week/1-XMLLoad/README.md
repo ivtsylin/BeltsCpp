@@ -9,7 +9,7 @@ struct Spending {
 ```
 
 Поток input содержит описание расходов в формате XML, например:
-```cpp
+```xml
 <july>
   <spend amount="2500" category="food"></spend>
   <spend amount="1150" category="transport"></spend>
